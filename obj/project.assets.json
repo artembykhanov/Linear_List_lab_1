@@ -1431,11 +1431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артём\\IT_vahtin\\1lab_IT\\SetApp.csproj",
-      "projectName": "SetApp",
-      "projectPath": "C:\\Users\\Артём\\IT_vahtin\\1lab_IT\\SetApp.csproj",
+      "projectUniqueName": "C:\\Users\\Артём\\IT_vahtin\\clean_repo__lab_1\\App.csproj",
+      "projectName": "App",
+      "projectPath": "C:\\Users\\Артём\\IT_vahtin\\clean_repo__lab_1\\App.csproj",
       "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артём\\IT_vahtin\\1lab_IT\\obj\\",
+      "outputPath": "C:\\Users\\Артём\\IT_vahtin\\clean_repo__lab_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config",
